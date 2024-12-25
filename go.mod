@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/bytedance/gopkg v0.0.0-20240507064146-197ded923ae3
 	github.com/cloudwego/netpoll v0.6.3
-	github.com/hujm2023/go-sms-protocol v0.6.0
+	github.com/hujm2023/go-sms-protocol v0.7.0
 	github.com/hujm2023/hlog v0.2.0
 	github.com/samber/lo v1.47.0
 )
