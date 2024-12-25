@@ -4,8 +4,8 @@ github.com/cloudwego/netpoll v0.6.3 h1:t+ndlwBFjQZimUj3ul31DwI45t18eOr2pcK3juZZm
 github.com/cloudwego/netpoll v0.6.3/go.mod h1:kaqvfZ70qd4T2WtIIpCOi5Cxyob8viEpzLhCrTrz3HM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1VwoXQT9A3Wy9MM3WgvqSxFWenqJduM=
-github.com/hujm2023/go-sms-protocol v0.6.0 h1:OqI9n1HWTtJvrdorzy39aXzzilbYmQCQWg9/M+jxSss=
-github.com/hujm2023/go-sms-protocol v0.6.0/go.mod h1:U9Ji8qlk9sBWHPvgtCXGsUmEGX/Wcuhwmre6uIXVrH4=
+github.com/hujm2023/go-sms-protocol v0.7.0 h1:YhnSEv3HqUZXAc/C0U18ww6pHelO+rKeXK2qiv6HSIo=
+github.com/hujm2023/go-sms-protocol v0.7.0/go.mod h1:U9Ji8qlk9sBWHPvgtCXGsUmEGX/Wcuhwmre6uIXVrH4=
 github.com/hujm2023/hlog v0.2.0 h1:4yqL60WqhwHUi4RPvwDrY7z6KXFKBwGzKdC9e4qpl8U=
 github.com/hujm2023/hlog v0.2.0/go.mod h1:VfRfBpprTbLXJ2Y8xmCIQ/uZosNCvYCgQ/Ty8O2E08Q=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
