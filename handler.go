@@ -74,7 +74,7 @@ func cmpp20Submit(ctx context.Context, pdu protocol.PDU) (resp []byte, err error
 		return nil, ErrInvalidPDUAssert
 	}
 
-	content, err := protocol.DecodeCMPPCContent(ctx, submit.MsgContent, submit.MsgFmt)
+	content, err := protocol.DecodeCMPPCContent(ctx, string(submit.MsgContent), submit.MsgFmt)
 	if err != nil {
 		hlog.CtxWarn(ctx, "[cmpp20Submit] decode content error: %v", err)
 		return nil, nil
